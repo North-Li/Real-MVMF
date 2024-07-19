@@ -1,4 +1,9 @@
-## Dataset
+## Real-MVMF: a set of real-world multi-view multi-focus datasets
+
+This dataset is captured by a 3x3 multi-view multi-focus (MVMF) imaging system, including 7 indoor scenes and 3 outdoor scenes. Thumbnails of all scenes are shown below:
+
+
+
 
 This dataset contains 630 defocus image sequences and corresponding ground-truth with 1920x1080 resolution captured from 7 scenens ("Meetingroom"scene, "Livingroom"scene, "Bathroom"scene, "Street"scene, "Furniture" scene, "Machine" scene and "Industrialparts"scene). At present, for each scene, we provide 81 multi-focus images at the first frame with 240x135 resolution for download. The complete dataset will be released upon publication.
 
