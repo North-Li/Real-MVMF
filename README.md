@@ -2,7 +2,7 @@
 
 This dataset is captured by a 3x3 multi-view multi-focus (MVMF) imaging system, including 7 indoor scenes and 3 outdoor scenes. Thumbnails of all scenes are shown below:
 
-
+<img src="https://github.com/hanna-xu/road-scene-infrared-visible-images/blob/master/crop_HR_visible/FLIR_05164.jpg" width="400" height="220"/>
 
 
 This dataset contains 630 defocus image sequences and corresponding ground-truth with 1920x1080 resolution captured from 7 scenens ("Meetingroom"scene, "Livingroom"scene, "Bathroom"scene, "Street"scene, "Furniture" scene, "Machine" scene and "Industrialparts"scene). At present, for each scene, we provide 81 multi-focus images at the first frame with 240x135 resolution for download. The complete dataset will be released upon publication.
