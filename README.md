@@ -6,7 +6,7 @@ This dataset is captured by a 3x3 multi-view multi-focus (MVMF) imaging system, 
 <img src="https://github.com/North-Li/Real-MVMF/blob/main/Thumbnails%20of%20all%20scenes.jpg" >
 
 
-An example of MVMF images at the first frame with 1920x1080 resolution is shown below, and the complete dataset will be released upon publication.
+At present, we provide the MVMF images at the first frame captured from scene I10 for download. The complete dataset will be released upon publication.
 
 
 <img src="https://github.com/North-Li/Real-MVMF/blob/main/An%20example%20of%20MVMF%20images.jpg" >
